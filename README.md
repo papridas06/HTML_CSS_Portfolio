@@ -1,16 +1,20 @@
 # Papri Das | Personal Portfolio
 
-A responsive personal portfolio introducing **Papri Das**, an Electronics and Communication Engineering student and aspiring developer. The site highlights education, technical skills, projects, internships, certifications, and contact links.
+A responsive personal portfolio introducing **Papri Das**, an Electronics and Communication Engineering student and aspiring developer. The website showcases education, technical skills, projects, internships, certifications, and contact information.
 
-## Live website
+## Live Website
 
-After publishing with GitHub Pages, add the public URL here:
+Once GitHub Pages deployment is successful, visit:
 
-`https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/`
+https://papridas06.github.io/HTML_CSS_Portfolio/
+
+## Repository
+
+https://github.com/papridas06/HTML_CSS_Portfolio
 
 ## Preview
 
-The portfolio is built with plain HTML and CSS. It includes a responsive hero section with a profile photo, project cards, and navigation links to each section.
+The portfolio is built using plain HTML5 and CSS3. It features a responsive hero section with a profile photo, project cards, and navigation links to different sections.
 
 ## Features
 
@@ -19,16 +23,16 @@ The portfolio is built with plain HTML and CSS. It includes a responsive hero se
 - Profile photo with alternative text
 - Education, skills, projects, internships, and certifications
 - Email, GitHub, and LinkedIn contact links
-- Keyboard-visible focus styles and a skip-to-content link
+- Visible keyboard-focus styles and a skip-to-content link
 - Reduced-motion support
 - No JavaScript, frameworks, backend, or database
 
-## Built with
+## Built With
 
 - HTML5
-- CSS3 (Grid, Flexbox, custom properties, and media queries)
+- CSS3 (Grid, Flexbox, and media queries)
 
-## Project files
+## Project Files
 
 ```text
 .
@@ -38,38 +42,27 @@ The portfolio is built with plain HTML and CSS. It includes a responsive hero se
 └── README.md
 ```
 
-## Run locally
+## Run Locally
 
-1. Download or clone this repository.
-2. Open `index.html` in a web browser.
+1. Clone or download this repository.
+2. Open `index.html` in your web browser.
 
 No installation or build step is required. Keep `index.html`, `style.css`, and `photo.png` together so the stylesheet and profile photo load correctly.
 
 ## Publish with GitHub Pages
 
-1. Create a **public** repository on GitHub. You can name it `Papri_Das_HTML_CSS_Portfolio`.
-2. In a terminal opened in this project folder, initialize Git and push the files:
-
-   ```bash
-   git init -b main
-   git add index.html style.css photo.png README.md
-   git commit -m "Add personal portfolio website"
-   git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-   git push -u origin main
-   ```
-
-   Replace `YOUR-USERNAME` and `YOUR-REPOSITORY` with the values for your GitHub account and repository.
-
-3. On GitHub, open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select the `main` branch and `/ (root)` folder, then save.
-6. After GitHub Pages finishes deploying, open the URL shown in the Pages settings and add it to the **Live website** section above.
+1. Open the repository on GitHub.
+2. Go to **Settings → Pages**.
+3. Under **Build and deployment**, select **Deploy from a branch**.
+4. Select the `main` branch and the `/ (root)` folder.
+5. Click **Save**.
+6. Wait for deployment to complete, then open the URL displayed in the Pages settings.
 
 ## Customization
 
 - Update your biography, education, projects, and contact details in `index.html`.
 - Change colors, spacing, and responsive styles in `style.css`.
-- To use another portrait, replace `photo.png` or update the image path in `index.html`.
+- Replace `photo.png` or update its image path in `index.html` to use another portrait.
 
 ---
 
